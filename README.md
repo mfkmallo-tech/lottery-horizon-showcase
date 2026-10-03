@@ -48,11 +48,13 @@ Lottery Horizon 是一个面向彩票门店日常协作场景的多端项目，�
 
 登录后，导航和操作入口会根据账号所属门店及角色权限展示。
 
-| 手机店主端 | PC 店主端 |
+| 手机店主端工作台 | PC 店主端工作台 |
 | --- | --- |
-| ![手机店主端登录](screenshots/merchant-mobile-login.jpg) | ![PC 店主端登录](screenshots/merchant-pc-login.jpg) |
+| ![手机店主端工作台](screenshots/merchant-mobile-dashboard.jpg) | ![PC 店主端工作台](screenshots/merchant-pc-dashboard.jpg) |
 
-![平台运营后台登录](screenshots/platform-login.jpg)
+| 手机店主端登录 | PC 店主端登录 | 平台运营后台登录 |
+| --- | --- | --- |
+| ![手机店主端登录](screenshots/merchant-mobile-login.jpg) | ![PC 店主端登录](screenshots/merchant-pc-login.jpg) | ![平台运营后台登录](screenshots/platform-login.jpg) |
 
 ## 功能范围
 
